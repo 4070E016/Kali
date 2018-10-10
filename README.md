@@ -23,3 +23,6 @@ IP地址範圍：192.168.0-255.0-255
 
 
 來源:http://www.freebuf.com/sectool/16410.html
+
+# msfconsole 基本指令
+來源:https://www.jianshu.com/p/7e630bbd294a
